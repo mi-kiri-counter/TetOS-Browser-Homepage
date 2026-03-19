@@ -1,0 +1,6 @@
+mark {
+    /* Text highlighted by using the <mark> element */
+    text-shadow: 1px 1px 4px var(--accent);
+    background-color: inherit;
+    color: inherit;
+}
